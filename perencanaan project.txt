@@ -1,0 +1,5 @@
+saya pengen membuat aplikasi sederhana bertema teknologi AI
+ mempunyai fitur
+  - Home
+  - Feature 
+  - About
